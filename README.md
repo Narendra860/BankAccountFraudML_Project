@@ -6,4 +6,12 @@ Github Credentials:
    UserName: Narendra860
    Password: BeCool@100496
    
-# BAF Video Recording Link: https://1drv.ms/v/s!ArzTFtIHOT5Ggaxby6PMXXLR21bDaw?e=gLyeAl
+Group Members
+  Vikram Boppana - 700742246
+  Narendra Reddy Reddymalla – 700743852
+  Akhil Patlori   -   700744211
+   
+# BAF Video Recording Link: https://1drv.ms/v/s!ArzTFtIHOT5Gga08x6vCrnLt_tN1Jw?e=XL5RZG
+
+The primary objective of BAF is to address the significant risks associated with bank account fraud by leveraging machine learning techniques. By detecting fraudulent applications, banks can reject them, preventing unauthorized access to banking services and protecting customers from potential financial losses
+
